@@ -45,15 +45,15 @@ A permissionless, governed protocol to deploy nouns-style DAOs complete with tre
 
 [Repository](https://github.com/code-423n4/2022-09-nouns-builder)
 
-#### 2022-12-20 - Week 7 / DeFi: QuickSwap and StellaSwap
+#### 2022-12-20 - Week 7 / Fractional
 
-A concentrated liquidity DEX with dynamic fees.
+A collective ownership platform for NFTs on Ethereum.
 
 [Repository](https://github.com/code-423n4/2022-07-fractional) | [Report](https://code4rena.com/reports/2022-07-fractional)
 
-#### 2022-12-27 - Week 8 / DeFi: Velodrome Finance
+#### 2022-12-27 - Week 8 / DeFi: QuickSwap and StellaSwap
 
-A base layer AMM on Optimism, inspired by Solidly.
+A concentrated liquidity DEX with dynamic fees.
 
 [Repository](https://github.com/code-423n4/2022-09-quickswap)
 
